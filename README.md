@@ -46,8 +46,8 @@ These technologies were chosen for simplicity, speed of development, and good su
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone <the-repo-url>
+cd <the-project-folder>
 ```
 
 ### 2. Backend setup
